@@ -1,0 +1,168 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top-bar{
+    background-color: #f5f5f5;
+    color: #858585;
+}
+.top-bar a{
+    color: grey;
+}
+.welcome a{
+    color: blue
+}
+
+
+.Venedor li{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    background-color: #e6e6e6;
+    padding: 12px;
+    margin: 3px;
+}
+.Venedor li :hover{
+    cursor: pointer;
+}
+.afterheropics{
+    margin-top: 20px;
+}
+.dollar{
+    margin-top: 25px;
+}
+
+
+
+.fashion_search a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.fashion_search a:hover{
+    color: #19bcd1;
+}
+.search i{
+    padding: 6px;
+    background-color: lightgrey;
+}
+.search{
+    margin-bottom: 6px;
+}
+
+
+
+.Bestsellers a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    background-color: #424a4a;
+    padding: 12px;
+    border-radius: 7px;
+    font-size: 12px;
+}
+.Bestsellers a:hover{
+    background-color: #19bcd1;
+    cursor: pointer;
+}
+
+
+
+.Latest a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    background-color: #424a4a;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+.Latest a:hover{
+    background-color: #19bcd1;
+    cursor: pointer;
+}
+.Latest p{
+    text-decoration: none;
+    color: #999999;
+    display: inline;
+    background-color: #fafafa;
+    padding: 10px;
+}
+.Latest h2{
+    color: grey;
+}
+.Latest h3{
+    color: grey;
+    font-size: 20px;
+}
+
+
+
+.Manufacturers p{
+    text-decoration: none;
+    color: #999999;
+    display: inline;
+    background-color: #fafafa;
+    padding: 7px;
+    float: right;
+}
+.Manufacturers p:hover{
+    background-color: #19bcd1;
+    cursor: pointer;
+}
+.placeholders{
+    margin-bottom: 60px
+}
+
+
+
+.News{
+    background-color: #d4d4d4
+}
+.News input{
+    border-color: yellow;
+}
+.News h3{
+    float: right;
+}
+.News a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    background-color: #424a4a;
+    padding: 10px;
+    font-size: 12px;
+}
+.News a:hover{
+    background-color: #19bcd1;
+    cursor: pointer;
+}
+.email{
+    margin-top: 20px;
+}
+
+
+
+.Account{
+    background-color: #424a4a;
+    color:whitesmoke;
+}
+.Account ul{
+    color: grey
+}
+.Account ul li:hover{
+    text-decoration: none;
+    display: inline;
+    color: #19bcd1;
+    cursor: pointer;
+}
+
+
+
+.bottomlogos{
+    cursor: pointer;
+}
+.Copyright{
+    padding: 30px;
+    background-color: #424a4a;
+    color: #999999;
+}
